@@ -14,3 +14,4 @@ A music recommender tool.
 10) http://www.albertauyeung.com/post/python-matrix-factorization/
 11) https://blog.insightdatascience.com/explicit-matrix-factorization-als-sgd-and-all-that-jazz-b00e4d9b21ea
 12) https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-matrix-factorization-in-python/
+13) http://nicolas-hug.com/blog/matrix_facto_3
