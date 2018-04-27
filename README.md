@@ -13,3 +13,4 @@ A music recommender tool.
 9) http://activisiongamescience.github.io/2016/01/11/Implicit-Recommender-Systems-Biased-Matrix-Factorization/
 10) http://www.albertauyeung.com/post/python-matrix-factorization/
 11) https://blog.insightdatascience.com/explicit-matrix-factorization-als-sgd-and-all-that-jazz-b00e4d9b21ea
+12) https://lazyprogrammer.me/tutorial-on-collaborative-filtering-and-matrix-factorization-in-python/
