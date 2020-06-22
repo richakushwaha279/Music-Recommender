@@ -1,5 +1,6 @@
 # Music-Recommender
 A music recommender tool.
+Presentation for the project: https://prezi.com/p/fawmbwylttct/smai-project-final/
 # links
 
 1) https://towardsdatascience.com/using-word2vec-for-music-recommendations-bb9649ac2484
