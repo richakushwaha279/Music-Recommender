@@ -1,7 +1,9 @@
 import numpy as np
 
 class MF():
-
+    '''
+    Class to compute biased matrix factorization
+    '''
     def __init__(self, R, K, alpha, beta, iterations):
         """
         Perform matrix factorization to predict empty
@@ -101,6 +103,7 @@ R = np.array([
     [0, 1, 5, 4],
 ])
 
+#creating object of MF class and invoking functions through it
 mf = MF(R, K=2, alpha=0.1, beta=0.01, iterations=20)
 training_process = mf.train()
 print()
