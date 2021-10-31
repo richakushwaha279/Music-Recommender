@@ -63,6 +63,19 @@ class MF():
         for x, y in zip(xs, ys):
             error += pow(self.R[x, y] - predicted[x, y], 2)
         return np.sqrt(error)
+    
+    # useful to use L1 loss also
+    def L1(self):
+        """
+        A function to compute the L1 error
+        """
+        xs, ys = self.R.nonzero()
+        predicted = self.full_matrix()
+        error = 0
+        for x, y in zip(xs, ys):
+            error += self.R[x, y] - predicted[x, y]
+        return error
+    
 
     def sgd(self):
         """
