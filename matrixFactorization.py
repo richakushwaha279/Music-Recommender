@@ -1,8 +1,4 @@
-#!/usr/bin/python
-# An implementation of matrix factorization
 
-
-import numpy as np # importing does not require try catch module
 
 ###############################################################################
 
