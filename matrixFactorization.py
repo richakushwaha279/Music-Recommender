@@ -1,9 +1,6 @@
 #!/usr/bin/python
-#
-# Created by Albert Au Yeung (2010)
-#
-# An implementation of matrix factorization
-#
+
+#clean up
 try:
     import numpy
 except:
